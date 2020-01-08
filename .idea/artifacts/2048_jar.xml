@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="2048:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/2048_jar</output-path>
+    <root id="archive" name="3.JavaMultithreading.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/3.JavaMultithreading/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="3.JavaMultithreading" />
+      <element id="module-output" name="2.JavaCore" />
+    </root>
+  </artifact>
+</component>
